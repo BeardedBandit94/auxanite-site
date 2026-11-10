@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /apps/template.html
+
+Sitemap: https://auxanite.com/sitemap.xml
