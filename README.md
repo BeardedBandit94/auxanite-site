@@ -27,5 +27,5 @@ JavaScript, no external requests.
 
 ## Deploying
 
-Upload the folder as-is to any static host (Cloudflare Pages, Netlify,
-GitHub Pages, Vercel) and point the `auxanite.com` DNS at it.
+Hosted on GitHub Pages from the `main` branch. The `CNAME` file sets the
+custom domain; point the `auxanite.com` DNS at GitHub Pages.
